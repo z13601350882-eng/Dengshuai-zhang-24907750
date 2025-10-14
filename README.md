@@ -206,7 +206,7 @@ rewind(4.1)
 playNote(78, 1.28)
 rewind(1.08)
 playNote(50, 4.61)
-
+moveTo（5）
 for i in range(4):
     playNote(4, beats = 0.25)
 Fmaj7 = [ 23, 17, 40, 54 ]
